@@ -86,7 +86,7 @@ Introspecting VQA Models with Sub-Questions</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/q(49).pdf" style="text-decoration:none;">Multi-level Attention Networks for Visual Question Answering</a></li>
  
-<ul>
+
 
                              
 
