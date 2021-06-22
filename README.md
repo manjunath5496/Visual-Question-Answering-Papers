@@ -292,110 +292,96 @@ Datasets, Algorithms, and Future Challenges</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(110).pdf" style="text-decoration:none;">Self-Critical Reasoning
 for Robust Visual Question Answering </a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(111).pdf" style="text-decoration:none;">Parallel Execution for Conflicting Transactions</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(111).pdf" style="text-decoration:none;">Deep Reason: A Strong Baseline for Real-World Visual Reasoning</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(112).pdf" style="text-decoration:none;">An v(1) algorithm for implementing the LFU
-cache eviction scheme</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(112).pdf" style="text-decoration:none;">Are Disentangled Representations Helpful for Abstract Visual Reasoning?</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(113).pdf" style="text-decoration:none;">Scalable Fault Tolerance for High-Performance Streaming Dataflow</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(113).pdf" style="text-decoration:none;">OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(114).pdf" style="text-decoration:none;">Noria: A New Take on Fast Web Application Backends</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(115).pdf" style="text-decoration:none;">Noria: dynamic, partially-stateful data-flow
-for high-performance web applications</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(114).pdf" style="text-decoration:none;">Psycholinguistics meets Continual Learning: Measuring Catastrophic Forgetting in Visual Question Answering</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(115).pdf" style="text-decoration:none;">Adversarial Regularization for Visual Question Answering: Strengths, Shortcomings, and Side Effects</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(116).pdf" style="text-decoration:none;">Dynamic, partially-stateful data-flow for
-high-performance Web applications</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(116).pdf" style="text-decoration:none;">RUBi: Reducing Unimodal Biases for Visual Question Answering</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(117).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(117).pdf" style="text-decoration:none;">Deep Modular Co-Attention Networks for Visual Question Answering</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(118).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(118).pdf" style="text-decoration:none;">Learning by Abstraction: The Neural State Machine</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(119).pdf" style="text-decoration:none;">Large Scale Unit Testing for Go Programming Language Packages</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(119).pdf" style="text-decoration:none;">Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(120).pdf" style="text-decoration:none;">The Design and Implementation of a
-High-Performance Active Network Node</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(120).pdf" style="text-decoration:none;">Bilinear Graph Networks for Visual Question Answering</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(121).pdf" style="text-decoration:none;">The Design, Implementation and Operation
-of an Email Pseudonym Server</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(121).pdf" style="text-decoration:none;">An Empirical Study on Leveraging Scene Graphs for Visual Question Answering</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(122).pdf" style="text-decoration:none;">Reinventing Scheduling for Multicore Systems </a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(122).pdf" style="text-decoration:none;">From Two Graphs to N Questions: A VQA Dataset for Compositional Reasoning on Vision and Commonsense </a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(123).pdf" style="text-decoration:none;">Building Secure High-Performance Web Services with OKWS</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(123).pdf" style="text-decoration:none;">VL-BERT: Pre-training of Generic Visual-Linguistic Representations</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(124).pdf" style="text-decoration:none;">Oort: User-Centric Cloud Storage with Global Queries</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(124).pdf" style="text-decoration:none;">Learning Sparse Mixture of Experts for Visual Question Answering</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(125).pdf" style="text-decoration:none;">Peer-to-Peer Communication Across Network Address Translators</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(125).pdf" style="text-decoration:none;">Explainable High-order Visual Question Reasoning: A New Benchmark and Knowledge-routed Network</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(126).pdf" style="text-decoration:none;">On the Feasibility of Peer-to-PeerWeb Indexing and Search</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(126).pdf" style="text-decoration:none;">Unified Vision-Language Pre-Training for Image Captioning and VQA</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(127).pdf" style="text-decoration:none;">Packrat Parsing:
-a Practical Linear-Time Algorithm with Backtracking</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(127).pdf" style="text-decoration:none;">UNITER: UNiversal Image-TExt Representation Learning</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(128).pdf" style="text-decoration:none;">Packrat Parsing:
-Simple, Powerful, Lazy, Linear Time</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(128).pdf" style="text-decoration:none;">Good, Better, Best: Multi-Choice VQA with Textual Distractors Generation via Policy Gradient</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(129).pdf" style="text-decoration:none;">Parsing Expression Grammars:
-A Recognition-Based Syntactic Foundation</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(129).pdf" style="text-decoration:none;">Learning Rich Image Region Representation for Visual Question Answering</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(130).pdf" style="text-decoration:none;">Pastwatch: a Distributed Version Control System </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(130).pdf" style="text-decoration:none;">Assessing the Robustness of Visual Question Answering</a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(131).pdf" style="text-decoration:none;">Easy Freshness with Pequod Cache Joins</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(131).pdf" style="text-decoration:none;">Visual Question Answering on 360<sup>o</sup> Images</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(132).pdf" style="text-decoration:none;">Verifying concurrent, crash-safe systems with Perennial</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(132).pdf" style="text-decoration:none;">In Defense of Grid Features for Visual Question Answering</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(133).pdf" style="text-decoration:none;">Proceedings of FAST '03: 2nd USENIX Conference on
-File and Storage Technologies</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(133).pdf" style="text-decoration:none;">Component Analysis for
+Visual Question Answering Architectures</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(134).pdf" style="text-decoration:none;">Providing Asynchronous File I/O
-for the Plan 9 Operating System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(134).pdf" style="text-decoration:none;">Counterfactual Samples Synthesizing for Robust Visual Question Answering</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(135).pdf" style="text-decoration:none;">Efficient patch-based auditing for web application vulnerabilities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(135).pdf" style="text-decoration:none;">RSVQA: Visual Question Answering for Remote Sensing Data</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(136).pdf" style="text-decoration:none;">Prolac: a language for protocol compilation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(137).pdf" style="text-decoration:none;">Flexible and Efficient Sharing of Protected Abstractions</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(138).pdf" style="text-decoration:none;">Retroactive Auditing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(139).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(140).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications (revised 2014-08-05)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(136).pdf" style="text-decoration:none;">Visual Question Answering for Cultural Heritage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(137).pdf" style="text-decoration:none;">Linguistically Driven Graph Capsule Network for Visual Question Reasoning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(138).pdf" style="text-decoration:none;">PathVQA: 30000+ Questions for Medical Visual Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(139).pdf" style="text-decoration:none;">P &#8776; NP, at least in Visual Question Answering</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(140).pdf" style="text-decoration:none;">Which visual questions are difficult to answer? Analysis with Entropy of Answer Distributions</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(141).pdf" style="text-decoration:none;"> Identifying information disclosure in web applications with retroactive auditing</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(142).pdf" style="text-decoration:none;">Optimizing RAM-latency Dominated Applications</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(143).pdf" style="text-decoration:none;">ScaleFS: A Multicore-Scalable File System</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(144).pdf" style="text-decoration:none;">WhanauSIP: A Secure Peer-to-Peer
-Communications Platform</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(145).pdf" style="text-decoration:none;">Scalable Address Spaces Using RCU Balanced Trees</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(146).pdf" style="text-decoration:none;">Intrusion Recovery Using Selective Re-execution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(141).pdf" style="text-decoration:none;"> A negative case analysis of visual grounding methods for VQA</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(142).pdf" style="text-decoration:none;">Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(143).pdf" style="text-decoration:none;">Deep Multimodal Neural Architecture Search</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(144).pdf" style="text-decoration:none;">A Novel Attention-based Aggregation Function to Combine Vision and Language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(145).pdf" style="text-decoration:none;">Dynamic Language Binding in Relational Visual Reasoning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(146).pdf" style="text-decoration:none;">Visuo-Linguistic Question Answering (VLQA) Challenge</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(147).pdf" style="text-decoration:none;">Modular Components for Network Address Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(147).pdf" style="text-decoration:none;">Visual Question Answering with Prior Class Semantics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(148).pdf" style="text-decoration:none;">An Extension-Oriented Compiler</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(148).pdf" style="text-decoration:none;">Cross-Modality Relevance for Reasoning on Language and Vision</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(149).pdf" style="text-decoration:none;">Optimizing Communication Bottlenecks in Multiprocessor Operating System Kernels</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(149).pdf" style="text-decoration:none;">Structured Multimodal Attentions for TextVQA</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(150).pdf" style="text-decoration:none;">Scaling a file system to many cores
-using an operation log</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(150).pdf" style="text-decoration:none;">Multimodal grid features and cell pointers for Scene Text Visual Question Answering</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(151).pdf" style="text-decoration:none;">A Software Approach to Unifying Multicore Caches </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(151).pdf" style="text-decoration:none;">M3P: Learning Universal Representations via Multitask Multilingual Multimodal Pre-training </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(152).pdf" style="text-decoration:none;">Self-Certifying File System Implementation for Windows </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(153).pdf" style="text-decoration:none;">Flexible Key Management with SFS Agents</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(154).pdf" style="text-decoration:none;">Access Control Lists for the Self-Certifying
-Filesystem</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(152).pdf" style="text-decoration:none;">Large-Scale Adversarial Training for Vision-and-Language Representation Learning </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(153).pdf" style="text-decoration:none;">ExploringWeaknesses of VQA Models through Attribution Driven Insights</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(154).pdf" style="text-decoration:none;">Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(155).pdf" style="text-decoration:none;">Separating key management from file system security</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(155).pdf" style="text-decoration:none;">Overcoming Statistical Shortcuts for Open-ended Visual Counting</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(156).pdf" style="text-decoration:none;">Concurrency Control for Multi-Processor Event-Driven Systems</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(157).pdf" style="text-decoration:none;">Fast and secure distributed read-only file system</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(158).pdf" style="text-decoration:none;">Shenango: Achieving High CPU Efficiency for
-Latency-sensitive Datacenter Workloads</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(156).pdf" style="text-decoration:none;">Self-Segregating and Coordinated-Segregating Transformer for Focused Deep Multi-Modular Network for Visual Question Answering</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(157).pdf" style="text-decoration:none;">ERNIE-ViL: Knowledge Enhanced Vision-Language Representations through Scene Graphs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(158).pdf" style="text-decoration:none;">DocVQA: A Dataset for VQA on Document Images</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(159).pdf" style="text-decoration:none;">View-Centric Performance Optimization for
-Database-Backed Web Applications </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(159).pdf" style="text-decoration:none;">The Impact of Explanations on AI Competency Prediction in VQA </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(160).pdf" style="text-decoration:none;">Sieve: Cryptographically Enforced Access Control for User Data in Untrusted Clouds</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(160).pdf" style="text-decoration:none;">Scene Graph Reasoning for Visual Question Answering</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
  
