@@ -383,96 +383,87 @@ Visual Question Answering Architectures</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(160).pdf" style="text-decoration:none;">Scene Graph Reasoning for Visual Question Answering</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(161).pdf" style="text-decoration:none;">Visual Question Answering as a Multi-Task Problem</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(162).pdf" style="text-decoration:none;">Splinter: Practical Private Queries on Public Data</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(163).pdf" style="text-decoration:none;">The Science of Software and System Design </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(162).pdf" style="text-decoration:none;">IQ-VQA: Intelligent Visual Question Answering</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(163).pdf" style="text-decoration:none;">Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(164).pdf" style="text-decoration:none;">A Measurement Study of Available Bandwidth Estimation Tools</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(164).pdf" style="text-decoration:none;">Semantic Equivalent Adversarial Data Augmentation for Visual Question Answering</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(165).pdf" style="text-decoration:none;">Designing multicore scalable filesystems with durability and crash consistency</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(165).pdf" style="text-decoration:none;">Contrastive Visual-Linguistic Pretraining</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(166).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(166).pdf" style="text-decoration:none;">Linguistically-aware Attention for Reducing the Semantic-Gap in Vision-Language Tasks</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(167).pdf" style="text-decoration:none;">SSL Splitting and Barnraising: Cooperative Caching with Authenticity Guarantees</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(167).pdf" style="text-decoration:none;">Document Visual Question Answering Challenge 2020</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(168).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(169).pdf" style="text-decoration:none;">SSL Splitting</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(170).pdf" style="text-decoration:none;">Structured Streams: a New Transport Abstraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(171).pdf" style="text-decoration:none;">Towards Optimization-Safe Systems:
-Analyzing the Impact of Undefined Behavior</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(172).pdf" style="text-decoration:none;">Stadium: A Distributed Metadata-Private
-Messaging System</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(173).pdf" style="text-decoration:none;">Certifying Checksum-Based Logging in the
-RapidFSCQ Crash-Safe Filesystem</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(168).pdf" style="text-decoration:none;">Visual Question Answering on Image Sets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(169).pdf" style="text-decoration:none;">A Dataset and Baselines for Visual Question Answering on Art</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(170).pdf" style="text-decoration:none;">MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(171).pdf" style="text-decoration:none;">Regularizing Attention Networks for Anomaly Detection in Visual Question Answering</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(172).pdf" style="text-decoration:none;">Multiple interaction learning with question-type prior knowledge for constraining answer search space in visual question answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(173).pdf" style="text-decoration:none;">X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(174).pdf" style="text-decoration:none;">Flexible, Wide-Area Storage for Distributed Systems Using Semantic Cues</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(175).pdf" style="text-decoration:none;">Tolerating Malicious Device Drivers in Linux</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(176).pdf" style="text-decoration:none;">Sybil-resistant DHT routing</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(174).pdf" style="text-decoration:none;">Attention Guided Semantic Relationship Parsing for Visual Question Answering</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(175).pdf" style="text-decoration:none;">Finding the Evidence: Localization-aware Answer Prediction for Text Visual Question Answering</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(176).pdf" style="text-decoration:none;">Interpretable Neural Computation for Real-World Compositional Visual Question Answering </a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(177).pdf" style="text-decoration:none;">A Sybil-proof one-hop DHT</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(177).pdf" style="text-decoration:none;">Contrast and Classify: Training Robust VQA Models</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(178).pdf" style="text-decoration:none;">Graduate Admissions at MIT and Comparison-based
-Rank Aggregation: A Case Study</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(179).pdf" style="text-decoration:none;">Automatic intrusion recovery with system-wide history</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(178).pdf" style="text-decoration:none;">Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(179).pdf" style="text-decoration:none;">Answer-checking in Context: A Multi-modal Fully Attention Network for Visual Question Answering</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(180).pdf" style="text-decoration:none;">Events Can Make Sense</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(180).pdf" style="text-decoration:none;">Multimodal Research in Vision and Language: A Review of Current and Emerging Trends</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(181).pdf" style="text-decoration:none;">Optimizing unit test execution in large software programs using dependency analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(182).pdf" style="text-decoration:none;">Verifying an I/O-Concurrent File System </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(183).pdf" style="text-decoration:none;">Proactive replication for data durability</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(181).pdf" style="text-decoration:none;">SOrT-ing VQA Models : Contrastive Gradient Learning for Improved Consistency</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(182).pdf" style="text-decoration:none;">Characterizing Datasets for Social Visual Question Answering, and the New Tiny Social Dataset </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(183).pdf" style="text-decoration:none;">Pathological Visual Question Answering</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(184).pdf" style="text-decoration:none;">Language and Compiler Support for Dynamic Code Generation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(184).pdf" style="text-decoration:none;">Beyond VQA: Generating Multi-word Answer and Rationale to Visual Questions</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(185).pdf" style="text-decoration:none;">A Revised and Verified Proof of the Scalable Commutativity Rule</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(185).pdf" style="text-decoration:none;">MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(186).pdf" style="text-decoration:none;">Processing Analytical Queries over Encrypted Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(186).pdf" style="text-decoration:none;">Leveraging Visual Question Answering to Improve Text-to-Image Synthesis</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(187).pdf" style="text-decoration:none;">Skip Lists: A Probabilistic Alternative to
-Balanced Trees</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(187).pdf" style="text-decoration:none;">Loss-rescaling VQA: Revisiting Language Prior Problem from a Class-imbalance View</a></li>
                              
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(188).pdf" style="text-decoration:none;">Undefined Behavior: What Happened to My Code?</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(188).pdf" style="text-decoration:none;">An Improved Attention for Visual Question Answering</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(189).pdf" style="text-decoration:none;">UserRelative
-Names for Globally Connected Personal Devices</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(190).pdf" style="text-decoration:none;">Google's DeepWeb
-Crawl</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(189).pdf" style="text-decoration:none;">Logically Consistent Loss for Visual Question Answering</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(190).pdf" style="text-decoration:none;">LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(191).pdf" style="text-decoration:none;">Persistent Personal Names for Globally Connected Mobile Devices  </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(191).pdf" style="text-decoration:none;">Interpretable Visual Reasoning via Induced Symbolic Space  </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(192).pdf" style="text-decoration:none;">Concurrent Data Structures</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(192).pdf" style="text-decoration:none;">XTQA: Span-Level Explanations of the Textbook Question Answering</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(193).pdf" style="text-decoration:none;">Scalable Internet Routing
-on Topology-Independent Node Identities</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(193).pdf" style="text-decoration:none;">Transformation Driven Visual Reasoning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(194).pdf" style="text-decoration:none;">Unmanaged Internet Protocol: Taming the Edge Network Management Crisis</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(194).pdf" style="text-decoration:none;">Learning from Lexical Perturbations for Consistent Visual Question Answering</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(195).pdf" style="text-decoration:none;">The A-Z of Programming Languages</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(195).pdf" style="text-decoration:none;">Point and Ask: Incorporating Pointing into Visual Question Answering</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(196).pdf" style="text-decoration:none;">UsenetDHT: A low-overhead design for Usenet</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(196).pdf" style="text-decoration:none;">Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(197).pdf" style="text-decoration:none;">Making Linux Protection Mechanisms Egalitarian with UserFS</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(197).pdf" style="text-decoration:none;">WeaQA:Weak Supervision via Captions for Visual Question Answering</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(198).pdf" style="text-decoration:none;">Veil: Private Browsing Semantics Without
-Browser-side Assistance</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(198).pdf" style="text-decoration:none;">Generating Natural Questions from Images for Multimodal Assistants</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(199).pdf" style="text-decoration:none;">VerSum: Verifiable Computations over Large Public Logs</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(199).pdf" style="text-decoration:none;">TAP: Text-Aware Pre-training for Text-VQA and Text-Caption</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(200).pdf" style="text-decoration:none;">Security bugs in embedded interpreters</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(200).pdf" style="text-decoration:none;">Simple is not Easy: A Simple Strong Baseline for TextVQA and TextCaps</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(201).pdf" style="text-decoration:none;">Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(201).pdf" style="text-decoration:none;">MiniVLM: A Smaller and Faster Vision-Language Model</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(202).pdf" style="text-decoration:none;">Vuvuzela: a scalable private messaging system</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(202).pdf" style="text-decoration:none;">KVL-BERT: Knowledge Enhanced Visual-and-Linguistic BERT for Visual Commonsense Reasoning</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(203).pdf" style="text-decoration:none;">Vx32: Lightweight User-level Sandboxing on the x86</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(203).pdf" style="text-decoration:none;">Knowledge-Routed Visual Question Reasoning: Challenges for Deep Representation Embedding</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(204).pdf" style="text-decoration:none;">VXA: A Virtual Architecture for Durable Compressed Archives</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(205).pdf" style="text-decoration:none;">Programming Languages: A Brief Review</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(206).pdf" style="text-decoration:none;">A World Wide Web Without Walls</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(207).pdf" style="text-decoration:none;">Intrusion Recovery for Database-backed Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(204).pdf" style="text-decoration:none;">A Closer Look at the Robustness of Vision-and-Language Pre-trained Models</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(205).pdf" style="text-decoration:none;">On Modality Bias in the TVQA Dataset</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(206).pdf" style="text-decoration:none;">KRISP: Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Question-Answering-Papers/blob/master/v(207).pdf" style="text-decoration:none;">Overcoming Language Priors with Self-supervised Learning for Visual Question Answering</a></li>
 
 
   
